@@ -26,9 +26,6 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-## 📸 Sample Output
-
-(Add your output screenshot here)
 
 ## 📌 Use Cases
 
